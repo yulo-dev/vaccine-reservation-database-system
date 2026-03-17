@@ -1,7 +1,7 @@
 # Vaccine Scheduler
 
 A command-line application for managing COVID-19 vaccine appointment scheduling, built with Python and SQLite.
-
+ 
 Patients can search for available caregivers, reserve vaccine appointments, and manage bookings. Caregivers can upload their availability, add vaccine doses, and view scheduled appointments.
 
 ## Tech Stack
